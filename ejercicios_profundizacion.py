@@ -11,7 +11,7 @@ Programa creado para que practiquen los conocimietos adquiridos durante la seman
 '''
 
 __author__ = "Pedro Luis Lugo Garcia"
-__email__ = "alumnos@inove.com.ar"
+__email__ = "pllugo@gmail.com"
 __version__ = "1.3"
 
 

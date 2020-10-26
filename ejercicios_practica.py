@@ -12,7 +12,7 @@ adquiridos durante la clase
 '''
 
 __author__ = "Pedro Luis Lugo García"
-__email__ = "alumnos@inove.com.ar"
+__email__ = "pllugo@gmail.com"
 __version__ = "1.1"
 
 
